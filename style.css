@@ -1,6 +1,7 @@
 body{
     font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 15px;
+    background-color : #0f1018;
 }
 
 header {
@@ -8,7 +9,7 @@ header {
     top: 0;
     right: 0;
     left: 0;
-    background: #2b8cfa;
+    background: #0f1018;
   }
 
 
@@ -32,11 +33,12 @@ h1:hover{
 #menu ul textarea{
     margin-left: 150px;
     max-height: 35px;
+    background-color: whitesmoke;
 }
 
 #menu ul li a {
     padding: 15px 15px;
-    color: rgb(250, 250, 250);
+    color: #15cbeb;
     text-decoration: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: large;
@@ -49,10 +51,11 @@ h1:hover{
 }
 
 .div1{
-    background-color: #2479da;
+    background-color: #07070a;
     margin-left: 450px;
     margin-right: 450px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aqua;
 }
 
 .div1 h2{
@@ -60,9 +63,10 @@ h1:hover{
 }
 
 .about{
-    background-color: whitesmoke;
+    background-color: #0f1018;
     margin-left: 450px;
     margin-right: 450px;
+    color: aqua;
 }
 
 .spacement{
@@ -71,7 +75,7 @@ h1:hover{
 }
 
 footer{
-    background-color: rgb(240, 228, 228);
+    background-color: #19181f;
     margin-top: 50px;
     height: 150px;
 }
